@@ -34,7 +34,7 @@ WAV Output (soundfile)
 
 ---
 
-## Supported Voices (Recommended for Affirmations)
+## Supported Voices
 
 **US Female**
 - `af_heart` – soft, emotional, calming (recommended default)
